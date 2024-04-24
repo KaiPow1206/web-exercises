@@ -1,0 +1,17 @@
+.col h3{
+    background-color: yellow;
+    color: red;
+}
+.col h2{
+    color: rgb(218, 182, 54);
+    text-align: center;
+}
+
+button{
+    margin-left: 85%;
+}
+.footer{
+    background-color: gray;
+    color: aliceblue;
+    text-align: center;
+}

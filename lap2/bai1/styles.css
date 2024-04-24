@@ -1,0 +1,17 @@
+h3{
+    background-color:rgb(252, 248, 18) ;
+    color: red;
+    text-align: left;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+}
+.footer{
+    background-color: grey;
+    color: aliceblue;
+    text-align: center;
+}
+button{
+    margin-left: 80%;
+}

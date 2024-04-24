@@ -1,0 +1,85 @@
+.col h1{
+    text-align: center;
+    color: violet;
+}
+h2{
+    background-color: yellow;
+    color: red;
+}
+nav{
+    background-color: rgb(248, 248, 248);
+
+}
+.row p{
+    font-size: .8em;
+    color: gray;
+}
+
+.row a{
+    font-size: .7em;
+}
+
+.table{
+    cursor: pointer;
+}
+
+.flower{
+    object-fit: cover;
+    width:70px;
+    height: 140px;
+}
+.table td {
+    border: 1px solid grey;
+}
+
+.table table{
+    width: 20%;
+    
+}
+
+.table td:hover{
+    background-color: blue;
+    color: aliceblue;
+}
+
+.previous{
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid gray;
+    color: grey;
+}
+
+.table_td {
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid gray;
+    color: blue;
+ }
+
+ .table_td:hover{
+    background-color: blue;
+    color: aliceblue;
+ }
+
+.pdd table{
+    width: 100%;
+    margin-top: 10px;
+    color: rgb(41, 37, 37);
+}
+.pdd th{
+    border: 1px solid blue;
+    color: black;
+    text-align: center;
+    background-color: burlywood;
+}
+.pdd td{
+    border: 1px solid blue;
+    padding:5px 5px;
+}
+
+footer{
+    background-color: gray;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 30px;
+}

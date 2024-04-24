@@ -1,0 +1,25 @@
+.box{
+    border: 1px solid red;
+    width: 60%;
+    height: 100px;
+    margin-left: 240px;
+}
+.container{
+    padding-left: 50px;
+}
+
+.img_logo{
+    width: 15%;
+    position: absolute;
+    left: 85%;
+}
+.logo_1{
+    position: absolute;
+    width: 20%;
+    left: 90%;
+    margin-top: 100%;
+}
+
+img:hover{
+    transform: scale(1.5);
+}

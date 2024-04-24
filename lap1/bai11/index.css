@@ -1,0 +1,22 @@
+h1{
+    color: pink;
+    margin-left: 215px;
+}
+#img{
+    float: left;
+    width: 15%;
+}
+#text{
+    float: left;
+    width: 70%;
+}
+ul.vuong{
+    list-style-type: square;
+}
+span{
+    background-color: pink;
+    color: #fff;
+}
+p{
+    display: inline-block;
+}
